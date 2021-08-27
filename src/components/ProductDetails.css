@@ -1,0 +1,55 @@
+.tr{
+    width: 100%;
+}
+.tdImg{
+    width: 49%;
+    float: left;
+    margin-top: 50px;
+
+}
+.tdData{
+    width: 49%;
+    float: right;
+    text-align: left;
+    padding-right: 20px;
+
+}
+.productDataElement{
+    
+}
+#productPrice{
+    color: green;
+    font-size: 30px;
+}
+#productTitle{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#productCategory{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+#productDescription{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+.addToCartBtn{
+    background-color: rgb(250, 82, 82);
+    border-color: rgb(250, 82, 82);
+    width: auto;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
+.addToWishBtn{
+    padding: 10px;
+    font-size: 20px;
+
+
+}
+.detailesHeading{
+    font-size: 30px;
+}

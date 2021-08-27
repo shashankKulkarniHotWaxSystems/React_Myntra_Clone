@@ -1,0 +1,27 @@
+.grid{
+    width: 100%;
+}
+.gridele{
+    width: 24%;
+    height: auto;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-shadow: gray 5px 10px 10px;
+    /* border-radius: 10px; */
+}
+.MainPageData{
+    margin-top: 40px;
+}
+.price{
+    color: green;
+}
+.category{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.productDiv{
+    padding-top: 50px;
+}
