@@ -43,6 +43,8 @@
     padding: 10px;
     color: white;
     font-size: 20px;
+    /* line-height: 10px; */
+
 }
 .addToWishBtn{
     padding: 10px;
@@ -52,4 +54,7 @@
 }
 .detailesHeading{
     font-size: 30px;
+}
+.bagIcon{
+    font-size: 40px;
 }

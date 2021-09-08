@@ -3,6 +3,7 @@ import { Banner } from './components/Banner';
 import Category from './components/Category';
 import { MainPageData } from './components/MainPageData';
 import ProductDetails from './components/ProductDetails';
+import LocalMallIcon from '@material-ui/icons/LocalMall';
 import {
   BrowserRouter as Router,
   Switch,
@@ -30,7 +31,7 @@ function App() {
         <li><Link to={"/Category/"+ categories.jewelery.name}>Jewelery</Link></li>
         <li><Link to={"/Category/"+ categories.electronics.name}>Electronics</Link></li>
         
-  
+        <li></li>
 </ul>
 
         </nav>

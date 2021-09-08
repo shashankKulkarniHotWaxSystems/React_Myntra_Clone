@@ -39,9 +39,7 @@ function Category(prop){
               <span>{product.title}</span>
             </div>
             </div>
-      </Link>
-
-            
+      </Link>          
           )
         })
 
